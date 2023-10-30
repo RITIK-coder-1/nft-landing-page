@@ -16,6 +16,10 @@ This project is an NFT (Non-Fungible Token) website, created as a part of my mil
 
 - This website is a demonstration project created for my milestone exam. It showcases the design and basic functionality of an NFT marketplace.
 
+## SKILLS/TOOLS Involved:
+
+- HTML5, CSS3, TailwindCSS
+
 ## Installation
 
 - There is no need to install this project as it's a static website hosted for evaluation. Please note that it does not connect to the Ethereum blockchain for real transactions.
