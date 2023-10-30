@@ -1,8 +1,20 @@
 # NFT Website
 
+## Table of Contents
+- [NFT Website](#nft-website)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [SKILLS/TOOLS Involved](#skillstools-involved)
+  - [Installation](#installation)
+  - [Credits](#credits)
+  - [Contact](#contact)
+
 ## Overview
 
 This project is an NFT (Non-Fungible Token) website, created as a part of my milestone exam for PWSkills. Please note that this is not a real NFT marketplace but a student project.
+
+Visit the site: https://nft.ritik.surge.sh
 
 ## Features
 
